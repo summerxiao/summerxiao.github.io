@@ -1,0 +1,6 @@
+<div class="post-end">
+    <strong>
+    <p>Anyone are welcomed to redistribute, copy, quote, reference or perform content in this site, if and only if he / she indicate the source <a href="http://matrix207.github.com" ref="nofollow">Matrix207 Blog</a></p>
+    <p>Page linker: <a href="{{ site.production_url }}{{ post.url }}" ref="nofollow">{{ site.production_url }}{{ post.url }}</a></p>
+    </strong>
+</div>
