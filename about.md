@@ -8,7 +8,7 @@ description: ""
 
 ###About me
 **Linux programmer, family with C/C++, ISCSI, Kernel.**   
-**Love music, sport and life.**   
+**Love music, sports and life.**   
 
 + [mail](mailto:{{ site.author.email }})
 
